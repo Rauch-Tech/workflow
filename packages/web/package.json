@@ -86,6 +86,6 @@
     "tailwindcss": "4",
     "typescript": "catalog:",
     "vite": "^6",
-    "vitest": "^3"
+    "vitest": "^5"
   }
 }

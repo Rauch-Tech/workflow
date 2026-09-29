@@ -17,7 +17,7 @@
     "@astrojs/node": "10.1.4",
     "@astrojs/vercel": "^10.0.8",
     "ai": "catalog:",
-    "astro": "^6.4.6",
+    "astro": "^7.2.8",
     "lodash.chunk": "^4.2.0",
     "openai": "6.9.0",
     "workflow": "workspace:*",
